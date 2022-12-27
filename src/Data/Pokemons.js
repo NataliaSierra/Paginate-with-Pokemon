@@ -1,38 +1,38 @@
 export const Pokemons = [
   {
-    name: 'Ditto - ADSI',
+    name: 'Ditto',
     img: 'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/132.png',
   },
   {
-    name: 'Pikachu - ADSI',
+    name: 'Pikachu',
     img: 'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png',
   },
   {
-    name: 'Bulbasaur - ADSI',
+    name: 'Bulbasaur',
     img: 'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png',
   },
   {
-    name: 'Charizard - ADSO',
+    name: 'Charizard',
     img: 'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png',
   },
   {
-    name: 'Squirtle - ADSO',
+    name: 'Squirtle',
     img: 'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png',
   },
   {
-    name: 'Pidgeotto - ADSO',
+    name: 'Pidgeotto',
     img: 'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/17.png',
   },
   {
-    name: 'Meowth - ADSO',
+    name: 'Meowth',
     img: 'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/52.png',
   },
   {
-    name: 'Psyduck - ADSO',
+    name: 'Psyduck',
     img: 'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/54.png',
   },
   {
-    name: 'Exeggcute - ADSI',
+    name: 'Exeggcute',
     img: 'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/102.png',
   },
 ];

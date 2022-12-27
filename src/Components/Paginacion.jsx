@@ -15,7 +15,7 @@ export const Paginacion = ({pagina, setPagina, maximo}) => {
   };
 
   const onKeyDown = e => {
-    if (e.keyCode == 13) {
+    if (e.keyCode === 13) {
       setPagina (parseInt (e.target.value));
       if (
         parseInt (e.target.value < 1) ||
